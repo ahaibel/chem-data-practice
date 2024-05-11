@@ -1,7 +1,7 @@
 Practiced
 
-- Import Water Ionization data while maintaining array shape
-- Graph Ionization as a scatter plot or wire frame
+- Import water ionization data while maintaining array shape
+- Graph ionization as a scatter plot or wire frame
 - Perform a (hasty) curve fit; would need to think more about potential functions
 - Re-graph curve and data
 
